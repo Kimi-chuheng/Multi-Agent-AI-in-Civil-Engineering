@@ -27,9 +27,9 @@ The system consists of three main components:
 │   ├── PDF2Graph.ipynb          # PDF processing and knowledge graph construction
 │   ├── Neo4jGraphAgentSetup.ipynb  # Multi-agent setup and query system
 ├── results/
-│   ├── QA1.txt                     # Question-answering results 1  
-│   ├── QA2.txt                     # Question-answering results set 2
-│   ├── MultiQA.txt                 #The comparative summary of multiple knowledge graphs constructed from various reports.
+│   ├── QA1.md                    # Question-answering results 1  
+│   ├── QA2.md                     # Question-answering results set 2
+│   ├── MultiQA.md                #The comparative summary of multiple knowledge graphs constructed from various reports.
 ├── kg_visuals/                     #Screenshot of the knowledge graph.
 ├── docker/
 │   ├── sample_neo4j_setup.sh           # A Example of Neo4j Docker setup scripts
