@@ -26,20 +26,17 @@ The system consists of three main components:
 ├── notebooks/
 │   ├── PDF2Graph.ipynb          # PDF processing and knowledge graph construction
 │   ├── Neo4jGraphAgentSetup.ipynb  # Multi-agent setup and query system
-├── agents/
-│   ├── kg_agent.py              # Knowledge graph interaction agent
-│   ├── comparison_agent.py      # Data comparison agent
 ├── data/
 │   ├── sample_reports/          # Sample civil engineering reports
 ├── results/
-│   ├── QA1/                     # Question-answering results set 1  
-│   ├── QA2/                     # Question-answering results set 2
-├── utils/
-│   ├── pdf_processing.py        # PDF handling utilities
-│   ├── neo4j_utils.py           # Neo4j connection utilities
+│   ├── QA1.txt                     # Question-answering results 1  
+│   ├── QA2.txt                     # Question-answering results set 2
+│   ├── MultiQA.txt                 #The comparative summary of multiple knowledge graphs constructed from various reports.
+├── kg_visuals/                     #Screenshot of the knowledge graph.
 ├── docker/
-│   ├── neo4j_setup.sh           # Neo4j Docker setup scripts
+│   ├── sample_neo4j_setup.sh           # A Example of Neo4j Docker setup scripts
 ├── README.md                    # Project documentation
+├── LICENCE.txt
 └── requirements.txt             # Dependencies
 ```
 
