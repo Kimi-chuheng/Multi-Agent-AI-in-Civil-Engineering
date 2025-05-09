@@ -26,8 +26,6 @@ The system consists of three main components:
 ├── notebooks/
 │   ├── PDF2Graph.ipynb          # PDF processing and knowledge graph construction
 │   ├── Neo4jGraphAgentSetup.ipynb  # Multi-agent setup and query system
-├── data/
-│   ├── sample_reports/          # Sample civil engineering reports
 ├── results/
 │   ├── QA1.txt                     # Question-answering results 1  
 │   ├── QA2.txt                     # Question-answering results set 2
