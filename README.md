@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-This project was developed at the University of Missouri-Kansas City (ongoing, May 2025).
+This project was developed at the University of Missouri-Kansas City.
 
 ## 📞 Contact
 
